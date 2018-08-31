@@ -4,7 +4,7 @@ title:  "Bem-vinda"
 categories: geral
 ---
 
-Não, este site não é feito só para as mulheres. Por que usei a saudação no feminino? Isso é uma escolha minha. Sei que é convencional usar as palavras no masculino quando queremos indicar ambos os gêneros, mas neste espaço usarei sempre a forma no feminino para provocar um incômodo. Sei que esse incômodo ocorrerá em homens, como [eu](https://epolimpio.github.io/about). E sei que muitas vezes, por costume, esquecerei de fazer isso. Mas esse incômodo é importante para lembrar que nós, homens, não ocupamos nenhuma posição de privilégio; e que é importante reconhecermos de onde viemos antes de dizer bravatas contra a igualdade de gênero: do ventre de nossas mães.
+Não, este site não é feito só para as mulheres. Por que usei a saudação no feminino? Isso é uma escolha minha. Sei que é convencional usar as palavras no masculino quando queremos indicar ambos os gêneros, mas neste espaço usarei sempre a forma no feminino para provocar um incômodo. Sei que esse incômodo ocorrerá em homens, como [eu]({{ site.url }}{% link about.md %}). E sei que muitas vezes, por costume, esquecerei de fazer isso. Mas esse incômodo é importante para lembrar que nós, homens, não ocupamos nenhuma posição de privilégio; e que é importante reconhecermos de onde viemos antes de dizer bravatas contra a igualdade de gênero: do ventre de nossas mães.
 
 Para terminar, gostaria de esclarecer por que não usei as forma genéricas que se usam na internet hoje em dia, como Bem-vindx ou Bem-vind@. Simplesmente não me sinto confortável em utilizar tais formas. Primeiro por conta do corretor ortográfico. Segundo porque não gostaria de ter uma porção de "x" e "@" em meus textos, questão de estética mesmo.
 
