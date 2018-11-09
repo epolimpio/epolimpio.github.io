@@ -23,6 +23,7 @@ url: "https://epolimpio.github.io/" # the base hostname & protocol for your site
 github_username:  epolimpio
 
 # Build settings
+future: false
 markdown: kramdown
 theme: minima
 plugins:
