@@ -4,7 +4,7 @@ title:  "Música de domingo"
 categories: musica
 ---
 
-Domingo é um dia que me deixa com preguiça, não quero ter que pensar no que escreverei. Portanto, assumindo isso desde já, a leitora não se incomodará se eu já escolher de antemão o tema do que escreverei aos domingos. E como o título sugere, vou colocar aqui a letra de uma música; se eu estiver animado pode ser que eu coloque uma explicação a respeito da escolha, mas não prometo.
+Domingo é um dia que me deixa com preguiça, não quero ter que pensar no que escreverei. Portanto, assumindo isso desde já, a leitora não se incomodará se eu já escolher de antemão o tema do que escreverei aos domingos. E como o título sugere, vou colocar aqui a letra de uma música que eu gosto; se eu estiver animado pode ser que eu coloque uma explicação a respeito da escolha, mas não prometo.
 
 Quero começar com uma música de um dos meus compositores favoritos, Gilberto Gil.
 
