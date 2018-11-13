@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Diferenças virtuais"
-categories: vida
+categories: filosofando
 ---
 
 Tenho me questionado sobre qual a razão para humanos buscarem se ver como diferentes. Nações, empresas, partidos, gênero, classes sociais - tudo serve para classificar e diferenciar.
