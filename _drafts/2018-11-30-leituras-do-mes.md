@@ -12,4 +12,7 @@ Todo final de mês vou deixar aqui alguns links do que li ao longo do mês e que
 1. Quando se fala tanto de fascismo e sobre a volta do autoritarismo, Yuval Harari nos alerta sobre os perigos da volta do autoritarismo no século XXI neste interessante [TED](https://www.ted.com/talks/yuval_noah_harari_why_fascism_is_so_tempting_and_how_your_data_could_power_it?language=en).
 1. O [manifesto](http://37signals.com/manifesto) do 37signals é realmente um tesouro escondido na internet; vira e mexe eu volto lá, neste mês foram muitas vezes por conta de começarmos a escrever o nosso manifesto.
 
-Neste mês li _24/7 - Capitalismo tardio e os fins do sono_ de Jonathan Crary, um tapa na cara sobre as formas de controle de nossa vida privada (sendo o sono, talvez, o última bastião de resistência) trazidas pelo desenvolvimento tecnológico; e _Sapiens_ de Yuval Noah Harari, uma narrativa brilhante sobre como os seres humanos se organizam e um questionamento fundamental de muitas de nossas ideias preconcebidas.
+Neste mês terminei trẽs livros:
+1. _24/7 - Capitalismo tardio e os fins do sono_ de Jonathan Crary, um tapa na cara sobre as formas de controle de nossa vida privada (sendo o sono, talvez, o última bastião de resistência) trazidas pelo desenvolvimento tecnológico;
+1. _It doesn't have to be crazy at work_ dos fundadores do Basecamp sobre a filosofia de trabalho que adotam e as escolhas ao longo do caminho para construir uma empresa calma;
+1. _Sapiens_ de Yuval Noah Harari, uma narrativa brilhante sobre como os seres humanos se organizam e um questionamento fundamental de muitas de nossas ideias preconcebidas.

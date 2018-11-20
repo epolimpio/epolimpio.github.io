@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Religiões do século XXI"
+title:  "Religiões modernas"
 categories: filosofando
 ---
 
