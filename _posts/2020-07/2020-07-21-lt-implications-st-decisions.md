@@ -4,7 +4,7 @@ title:  "The long-term implications of product decisions"
 categories: product
 ---
 
-"Move fast and break things" once said Mark Zuckenberg. But even at Facebook, this is not a motto anymore - at least not publicly. Is the age of "move fast and break things" is over?
+"Move fast and break things" once said Mark Zuckenberg. But even at Facebook, this is not a motto anymore - at least not publicly. Is the age of "move fast and break things" is [over](https://hbr.org/2019/01/the-era-of-move-fast-and-break-things-is-over)?
 
 Product managers across the globe still proclaim the virtues of Lean and MVPs as excuses to test the viability of a solution on bare wire. We are irrational beings that underestimate real risks and support our decisions on supposedly rational justification. For instance, early-stage startups typically accept risks because they are in survival mode. And to be honest, in the short-term, most of the risks we accept are relatively low. It is in the medium and long-term that we find the second and third-order effects that are overlooked.
 
@@ -14,7 +14,7 @@ Here is a short list I compiled of some of the long-term implications that peopl
 
 1. Image risks
 
-When I was a risk manager at a wealth management firm this was by far the risk I needed to be most careful. Wealthy people pay for trust when they hire a firm to manage their portfolio. A partner always reminded me: "trust takes years to build but a minute to destroy". A good thought exercise we have often used is the following. Imagine if a reporter had access to all your thought processes, all your files, all the conversations you had even in private to make an investment decision. How would this article come out in the newspaper? This panopticon sort of watching your behavior might sound a bit too much but the thought exercise is really helpful when trying to mitigate image risks.
+When I was a risk manager at a wealth management firm this was by far the risk I needed to be most careful. Wealthy people pay for trust when they hire a firm to manage their portfolio. A partner always reminded me: "trust takes years to build but a minute to destroy". A good thought exercise we have often used is the following. Imagine if a reporter had access to all your thought processes, all your files, all the conversations you had even in private to make an investment decision. How would this article come out in the newspaper? This [panopticon](https://en.wikipedia.org/wiki/Panopticon) sort of watching your behavior might sound a bit too much but the thought exercise is really helpful when trying to mitigate image risks.
 
 There are a few tips that also help here, like writing the press release of your product or explaining it to people outside your field who could come with objections that an insider would probably dismiss. In the end, remember that image risks are not about your intention but the external perception of your delivered product. 
 
@@ -22,7 +22,7 @@ There are a few tips that also help here, like writing the press release of your
 
 Each market operates under a certain set of rules we must comply with. Violating it can really damage the business, if not financially then by jeopardizing its reputation. So it is never too late to build a compliance checklist for your deliverables. Do not allow for gray zones that are not agreed upon with executives and legal.
 
-Make sure you understand the rules of the countries where you operate and which regulations you must comply with. Every market and country is different. From my experience, the best startup point is to write (in case of a new product, using a legal counselor) or read and learn about (in case of a mature product) the terms and conditions and laws that are applicable - the typical set is data protection (GDPR), tax and consumer protection laws.
+Make sure you understand the rules of the countries where you operate and which regulations you must comply with. Every market and country is different. From my experience, the best startup point is to write (in case of a new product, using a legal counselor) or read and learn about (in case of a mature product) the terms and conditions and laws that are applicable - the typical set is data protection ([GDPR](https://gdpr-info.eu/)), tax and consumer protection laws.
 
 3. Technical debt
 
